@@ -1,0 +1,32 @@
+.box
+{
+	color:transparent;
+	border:1px solid black;
+}
+
+.box:hover
+{
+	color:black;
+	border:1px solid orange;
+}
+
+#tl
+{
+}
+
+
+#tm
+
+#tr
+
+#ml
+
+#mm
+
+#mr
+
+#bl
+
+#bm
+
+#br
